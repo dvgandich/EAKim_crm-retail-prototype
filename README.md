@@ -29,21 +29,21 @@
 ### Скриншоты работы системы
 
 **1. Главное меню**
-![Главное меню](images/screenshot6.png)
+![Главное меню](images/screenshot_6.png)
 
 **2. Дашборд KPI (до добавления данных)**
-![Дашборд KPI](images/screenshot1.png)
+![Дашборд KPI](images/screenshot_1.png)
 
 **3. Список клиентов**
-![Список клиентов](images/screenshot2.png)
+![Список клиентов](images/screenshot_2.png)
 
 **4. Добавление нового клиента**
-![Добавление клиента](images/screenshot3.png)
+![Добавление клиента](images/screenshot_3.png)
 
 **5. Добавление продажи**
-![Добавление продажи](images/screenshot4.png)
+![Добавление продажи](images/screenshot_4.png)
 
 **6. Дашборд KPI (после добавления данных)**
-![Дашборд KPI после](images/screenshot5.png)
+![Дашборд KPI после](images/screenshot_5.png)
 
 ### Логи работы
