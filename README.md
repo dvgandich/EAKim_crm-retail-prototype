@@ -27,8 +27,8 @@
     ├── README.md                          # Документация
     ├── images/                            # Папка со скриншотами
     └── .github/
-    └── workflows/
-        └── ci.yml                          # Настройки CI/CD
+        └── workflows/
+            └── ci.yml                     # Настройки CI/CD
 
 
 ## Установка
