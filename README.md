@@ -19,6 +19,7 @@
 - ipywidgets
 
 ## Структура проекта
+'''bash
 crm-retail-prototype/
 ├── crm_prototype.ipynb # Основной файл приложения
 ├── requirements.txt # Зависимости Python
