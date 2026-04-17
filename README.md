@@ -19,15 +19,15 @@
 - ipywidgets
 
 ## Структура проекта
-'''bash
-crm-retail-prototype/
-├── crm_prototype.ipynb # Основной файл приложения
-├── requirements.txt # Зависимости Python
-├── README.md # Документация
-├── images/ # Папка со скриншотами
-└── .github/
-└── workflows/
-└── ci.yml # Настройки CI/CD
+   '''bash
+   crm-retail-prototype/
+   ├── crm_prototype.ipynb # Основной файл приложения
+   ├── requirements.txt # Зависимости Python
+   ├── README.md # Документация
+   ├── images/ # Папка со скриншотами
+   └── .github/
+   └── workflows/
+   └── ci.yml # Настройки CI/CD
 
 
 ## Установка
