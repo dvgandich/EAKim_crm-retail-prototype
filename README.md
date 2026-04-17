@@ -18,15 +18,16 @@
 - Plotly
 - ipywidgets
 
-## Структура проекта
-   crm-retail-prototype/
-   ├── crm_prototype.ipynb # Основной файл приложения
-   ├── requirements.txt # Зависимости Python
-   ├── README.md # Документация
-   ├── images/ # Папка со скриншотами
-   └── .github/
-   └── workflows/
-   └── ci.yml # Настройки CI/CD
+  ## Структура проекта
+
+- crm-retail-prototype/
+  - .github/
+    - workflows/
+      - ci.yml    # Настройки CI/CD
+  - images/    # Папка со скриншотами
+  - crm_prototype.ipynb    # Основной файл приложения
+  - requirements.txt    # Зависимости Python
+  - README.md    # Документация
    
 
 ## Установка
