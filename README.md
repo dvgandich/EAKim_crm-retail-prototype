@@ -82,7 +82,8 @@ def add_client(self, name: str, phone: str, email: str, segment: str) -> bool:
 
 Статус последней сборки:
 
-
+[![CI/CD Pipeline](https://github.com/dvgandich/EAKim_crm-retail-prototype/actions/workflows/ci.yml/badge.svg)]
+(https://github.com/dvgandich/EAKim_crm-retail-prototype/actions/workflows/ci.yml)
 
 ## Что проверяется
 - Синтаксис Python при каждом push
